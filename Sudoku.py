@@ -31,7 +31,6 @@ class Sudoku:
         self.generateGrid()
 
     def generateGrid(self):
-        # Look up how this works https://stackoverflow.com/questions/45471152/how-to-create-a-sudoku-puzzle-in-python
         base = 3
         side = base * base
 
